@@ -1,0 +1,12 @@
+# requirements.txt
+torch>=2.0.0
+torchvision>=0.15.0
+pytorch-metric-learning>=2.0.0
+transformers>=4.30.0
+opencv-python
+pillow
+numpy
+scikit-learn
+tqdm
+faiss-cpu  # или faiss-gpu для GPU
+albumentations
